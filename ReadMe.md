@@ -1,7 +1,7 @@
 step:
-1. git clone https://github.com/RafatharCodeV5/RafatharCodeV5 userbot
+1. git clone https://github.com/Fahrihosting1/Fahrihosting1 userbot
 - username : RafatharCodeV5
-- pass : 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
+- pass : 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
 
 2. sudo apt update && sudo apt upgrade -y
 3. sudo apt install python3.10-venv ffmpeg
