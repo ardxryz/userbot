@@ -163,8 +163,6 @@ async def delete_admin_command(client: Client, message: Message):
         
 @PY.UBOT("addpanel")
 async def addpanel_command(client: Client, message: Message):
-    if not await is_owner(client, message):
-        return
 
     if not PLTA:
         await message.reply_text("API key not found!")
