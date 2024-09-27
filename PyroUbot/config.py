@@ -21,7 +21,7 @@ OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 MONGO_URL = os.getenv("MONGO_URL")
 
-DOMAIN = os.getenv("DOMAIN", "http://jeloolxiterzprivate.panel-bot.xyz")
+DOMAIN = os.getenv("DOMAIN", "https://jeloolxiterzprivate.panel-bot.xyz")
 
 PLTA = os.getenv("PLTA", "ptla_EzpuiKZX35SnKtdyC9LG78exn6EIVsFn5m4savBhnDP")
 
