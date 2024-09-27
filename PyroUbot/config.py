@@ -21,11 +21,11 @@ OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 MONGO_URL = os.getenv("MONGO_URL")
 
-DOMAIN = os.getenv("DOMAIN", "https://private-pokebot.fahri4you.my.id")
+DOMAIN = os.getenv("DOMAIN", "http://jeloolxiterzprivate.panel-bot.xyz")
 
-PLTA = os.getenv("PLTA", "ptla_gIlkuBVuHY2262QSg1EuvA5fopgzr7LrZweZMGCZpBI")
+PLTA = os.getenv("PLTA", "ptla_EzpuiKZX35SnKtdyC9LG78exn6EIVsFn5m4savBhnDP")
 
-CAPI_KEY = os.getenv("CAPI_KEY", "ptlc_ybJMpanSG9WBNFoSfkPz3sbOXfHr0BvhDhTWdJSsniA")
+CAPI_KEY = os.getenv("CAPI_KEY", "ptlc_EIb0sV5cLHksCjcDwxKTXbM8pi9FTKxSpCVEx6k6Cva")
 
 EGG = os.getenv("EGG", "15")
 
