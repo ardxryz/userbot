@@ -20,3 +20,13 @@ RMBG_API = os.getenv("RMBG_API")
 OPENAI_KEY = os.getenv("OPENAI_KEY")
 
 MONGO_URL = os.getenv("MONGO_URL")
+
+DOMAIN = os.getenv("DOMAIN", "https://private-pokebot.fahri4you.my.id")
+
+PLTA = os.getenv("PLTA", "ptla_gIlkuBVuHY2262QSg1EuvA5fopgzr7LrZweZMGCZpBI")
+
+CAPI_KEY = os.getenv("CAPI_KEY", "ptlc_ybJMpanSG9WBNFoSfkPz3sbOXfHr0BvhDhTWdJSsniA")
+
+EGG = os.getenv("EGG", "15")
+
+LOC = os.getenv("LOC", "1")
