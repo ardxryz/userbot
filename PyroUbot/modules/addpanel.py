@@ -11,10 +11,6 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 from PyroUbot import PY
 from PyroUbot.config import OWNER_ID, PLTA, DOMAIN, CAPI_KEY, EGG, LOC
 
-PLTA = 'ptla_EzpuiKZX35SnKtdyC9LG78exn6EIVsFn5m4savBhnDP';
-CAPI_KEY = 'ptlc_EIb0sV5cLHksCjcDwxKTXbM8pi9FTKxSpCVEx6k6Cva';
-DOMAIN = 'https://jeloolxiterzprivate.panel-bot.xyz';
-
 __MODULE__ = "ᴘᴛᴇʀᴏᴅᴀᴄᴛʏʟ"
 __HELP__ = """
 <blockquote><b>Contoh menggunakan fitur Panel Management</b>
