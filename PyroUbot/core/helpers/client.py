@@ -7,7 +7,7 @@ class FILTERS:
     ME = filters.me
     GROUP = filters.group
     PRIVATE = filters.private
-    OWNER = filters.user([1833003074, OWNER_ID])
+    OWNER = filters.user([6918272953, OWNER_ID])
     ME_GROUP = filters.me & filters.group
     ME_OWNER = filters.me & filters.user(OWNER_ID)
 
