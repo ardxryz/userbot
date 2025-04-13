@@ -1,7 +1,7 @@
 step:
 1. git clone https://github.com/ardxryz/ardxryz userbot
 - username : ardxryz
-- pass : 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
+- pass : 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
 
 2. sudo apt update && sudo apt upgrade -y
 3. sudo apt install python3.10-venv ffmpeg
